@@ -8,46 +8,51 @@ import "../styles/hamburgers.css";
     class="flex container mx-auto md:p-10 px-4 py-6 items-center justify-between"
   >
     <a class="flex items-center gap-2" href="/">
-      <p class="font-kablamo text-ppink text-4xl md:text-5xl">S</p>
+      <p class="font-sans text-lime-600 text-4xl md:text-5xl">CD</p>
       <p class="pt-2 md:text-lg font-semibold flex">
-        <span class="hidden md:block">Joaquín</span> Sorolla
+        <span class="hidden md:block">Futebol </span>
       </p>
-    </a>
-    <ul class="items-center md:gap-8 text-nowrap hidden md:flex">
-      <li><Link href="/" text="Home" style="primary" /></li>
-      <li><Link href="/about" text="What I do" style="secondary" /></li>
-      <li><Link href="/blog" text="My work" style="tertiary" /></li>
-    </ul>
-    <div class="md:hidden z-40">
-      <button class="hamburger hamburger--elastic" type="button">
-        <span class="hamburger-box">
-          <span class="hamburger-inner"></span>
-        </span>
-      </button>
+      <ul class="items-center md:gap-8 text-nowrap hidden md:flex">
+        <li><Link href="/" text="Início" style="primary" /></li>
+        <li><Link href="/about" text="Quem somos" style="secondary" /></li>
+        <li><Link href="/blog" text="Artigos" style="tertiary" /></li>
+      </ul>
+      <div class="md:hidden z-40">
+        <button class="hamburger hamburger--elastic" type="button">
+          <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+          </span>
+        </button>
 
-      <div id="navigation" class="fixed top-0 left-0 w-full h-full bg-white transform -translate-y-full transition-transform duration-300 ease-in-out">
-        <ul class="flex flex-col items-center justify-center h-full gap-8 text-nowrap">
-          <li><Link href="/" text="Home" style="primary" /></li>
-          <li><Link href="/about" text="What I do" style="secondary" /></li>
-          <li><Link href="/blog" text="My work" style="tertiary" /></li>
-        </ul>
+        <div
+          id="navigation"
+          class="fixed top-0 left-0 w-full h-full bg-white transform -translate-y-full transition-transform duration-300 ease-in-out"
+        >
+          <ul
+            class="flex flex-col items-center justify-center h-full gap-8 text-nowrap"
+          >
+            <li><Link href="/" text="Home" style="primary" /></li>
+            <li><Link href="/about" text="What I do" style="secondary" /></li>
+            <li><Link href="/blog" text="My work" style="tertiary" /></li>
+          </ul>
+        </div>
       </div>
-    </div>
+    </a>
   </nav>
-</header>
-<script is:inline>
-  function init(){
-    const hamburger = document.querySelector(".hamburger");
-    const menu = document.getElementById("navigation");
+  <script is:inline>
+    function init() {
+      const hamburger = document.querySelector(".hamburger");
+      const menu = document.getElementById("navigation");
 
-    if (hamburger && menu) {
-      hamburger.addEventListener("click", () => {
-        hamburger.classList.toggle("is-active");
-        menu.classList.toggle("-translate-y-full");
-        menu.classList.toggle("translate-y-0");
-      });
+      if (hamburger && menu) {
+        hamburger.addEventListener("click", () => {
+          hamburger.classList.toggle("is-active");
+          menu.classList.toggle("-translate-y-full");
+          menu.classList.toggle("translate-y-0");
+        });
+      }
     }
-  }
-  init();
-  document.addEventListener("astro:after-swap", init);
-</script>
+    init();
+    document.addEventListener("astro:after-swap", init);
+  </script>
+</header>
