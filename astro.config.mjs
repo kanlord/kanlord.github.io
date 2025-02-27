@@ -10,7 +10,7 @@ import netlify from "@astrojs/netlify";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://cdfutebol.github.io',
+  site: 'https://kanlord.github.io',
   output:'server',
   integrations: [mdx(), sitemap(), tailwind(), icon()],
   adapter: netlify(),
