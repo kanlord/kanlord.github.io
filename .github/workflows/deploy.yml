@@ -38,6 +38,6 @@ jobs:
         uses: actions/deploy-pages@v4
         with:
           name: github-pages
-          path: /home/runner/work/_temp/artifact.tar
+          path: out  # Ensure this is the correct directory
           retention-days: 1
           if-no-files-found: error
