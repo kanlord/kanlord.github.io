@@ -1,21 +1,39 @@
 ---
-title: "Bem Vindos"
+title: "História do Futebol"
 description:
-  'Foto de <a class="underline" href="https://unsplash.com/es/@adrigeo_?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Adrianna Geo</a> en <a class="underline" href="https://unsplash.com/es/fotos/una-pintura-en-el-techo-de-un-edificio-1rBg5YSi00c?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-  '
+  'Aula Teórica 1'
 icon: "3"
 pubDate: "Mar 5 2025"
-heroImage: "/src/assets/adriana.jpg"
-author: "Matilde"
+heroImage: "/src/assets/campo.webp"
+author: "Grupo"
 ---
 
-# Bem Vindos
-Caros leitores, sejam bem vindos ao nosso websites.
+# Datas Importantes 
 
-Se estão à procura de informação sobre futebol, vieram ao sítio certo.
-
-Este website foi criado no âmbito da unidade curricular de estudos práticos de futebol, parte integrante da Licenciatura de Ciências do Desporto da Universidade da Beira Interior. O website foi desenvolvido com a finalidade de fazermos um portfólio dedicado ao futebol.
-
-Foi criado e desenvolvido com dedicação por um grupo de estudantes do 2.º ano desta unidade curricular e curso.
+**2000 a.C.** - “Tsu-Chu” → Treino Militar na China
 <br>
-Eis os autores: Matilde Albarino, natural da Figueira da Foz; Camila Duarte, de Pataias; Tomás Loureiro, de Albufeira; Lara Gomes, de Mira de Aire; Daniela Ribeiro, de Figueiró dos Vinhos; Diogo Braz, natural do Entroncamento.
+**2000 a.C.** - “Kemari” → Ritual Religioso (influência do Tsu-Chu)
+<br>
+**1500** - “Calcio Fiorentino” → Festa anual em Itália
+<br>
+**1846** - “Football” → Educação em Inglaterra
+<br>
+**1885** - Primeiro registo de equipas e jogadores profissionais de Futebol (Inglaterra)
+<br>
+**1886** - Primeiras regras do Futebol
+<br>
+**1888** - Primeiro campeonato de Futebol em Inglaterra
+<br>
+**1904** - Nasce a FIFA (Fédération Internationale de Football Association) - 7 membros
+<br>
+**1914** - Fundada a Federação Portuguesa de Futebol (3 associações regionais: Lisboa, Porto e Portalegre)
+<br>
+**1921** - Primeiro campeonato de Futebol em Portugal
+<br>
+**1954** - Nasce a UEFA (Union of European Football Associations)
+<br>
+**1978** - Criação da Liga de Clubes Profissionais em Portugal
+<br>
+**2023** - FIFA tem 211 membros e UEFA tem 55 membros
+
+**O campo e os equipamentos** 
