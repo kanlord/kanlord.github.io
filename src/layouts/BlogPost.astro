@@ -6,7 +6,6 @@ import Footer from "@/components/Footer.astro";
 import FormattedDate from "@/components/FormattedDate.astro";
 import { Icon } from "astro-icon/components";
 
-import { authors } from "src/consts";
 type Props = CollectionEntry<"blog">["data"];
 
 const {
@@ -114,16 +113,27 @@ const getRandomClass = () => {
                 <div
                   class="bg-pgreen rounded-full w-12 h-12 aspect-square object-contain overflow-hidden"
                 >
-                  <img src={`/src/assets/${author}.jpg`} alt={author} />
+                  <img src={`/src/assets/${author}.png`} alt={author} />
                 </div>
                 <div>
                   <h3>{author}</h3>
                   <p class="text-pblack">
-                    Estudantes de Ciências do Desporto<br />2.º ano
+                    Estudante de Ciências do Desporto<br />2.º ano
                   </p>
                 </div>
               </div>
-              <div class="flex -mt-4 gap-2"></div>
+              <div class="flex -mt-4 gap-2">
+                <div
+                  class="bg-pgreen rounded-full w-12 h-12 aspect-square object-contain overflow-hidden"
+                >
+                  <img src={`/src/assets/${author}.png`} alt={author} />
+                </div>
+                <div>
+                  <h3>{author}</h3>
+                  <!-- <p class="text-pblack">Albarino</p> -->
+                </div>
+              </div>
+              <hr />
               <div>
                 <p>Contributors:</p>
                 <div class="flex items-center gap-6 text-xl">
