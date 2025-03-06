@@ -1,12 +1,12 @@
 ---
-title: "Bem Vindos"
+title: "Bem Vindos 2"
 description:
   'Foto de <a class="underline" href="https://unsplash.com/es/@adrigeo_?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Adrianna Geo</a> en <a class="underline" href="https://unsplash.com/es/fotos/una-pintura-en-el-techo-de-un-edificio-1rBg5YSi00c?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   '
 icon: "3"
 pubDate: "Mar 5 2025"
 heroImage: "/src/assets/adriana.jpg"
-author: "Matilde"
+author: "Grupo"
 ---
 
 # Bem Vindos
