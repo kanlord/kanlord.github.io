@@ -3,3 +3,15 @@
 
 export const SITE_TITLE = 'CDFutebol';
 export const SITE_DESCRIPTION = 'Site de desporto do ano';
+
+export const authors = [
+    {
+        name: "Camila",
+    },
+    {
+        name: "Rui",
+    },
+    {
+        name: "Matilde",
+    }
+];
