@@ -2,17 +2,20 @@
 import { Icon } from "astro-icon/components";
 import { Image } from "astro:assets";
 const images = import.meta.glob<{ default: ImageMetadata }>(
-  "/src/assets/*.{jpeg,jpg,png,gif}"
+  "/src/assets/*.{jpeg,jpg,png,gif,webp}"
 );
 ---
 
 <section class="py-20 flex md:flex-row flex-col px-4 md:px-0 gap-10 md:gap-0">
   <div class="flex flex-col gap-6 justify-start items-start md:w-1/2">
-    <h1 class="text-pblack">Hi, my name is Joaquín Sorolla</h1>
-    <p class="text-6xl font-bold">Duels with the sun are fewer.</p>
+    <h1 class="text-pblack">
+      Estudantes de segundo ano da licenciatura em Ciências do Desporto na UBI
+    </h1>
+    <p class="text-6xl font-bold">Estudos práticos Futebol</p>
     <p>
-      I am Joaquín Sorolla y Bastida, a Spanish painter. A prolific artist, I
-      left behind more than 2,200 cataloged works.
+      Somos um grupo de alunos a desenvolver um trabalho no âmbito da unidade
+      curricular estudos práticos de futebol, leciona pelo professor
+      Doutor António Vicente
     </p>
     <a
       rel="noopener noreferrer"
