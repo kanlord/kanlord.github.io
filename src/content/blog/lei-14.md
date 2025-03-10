@@ -1,5 +1,5 @@
 ---
-title: "Lei 14 - O Pontapé de Grande Penalidade"
+title: "Lei 14 - O Pontapé de Penálti"
 description:
   'Aula Teórica 1'
 icon: "2"
@@ -8,7 +8,7 @@ heroImage: "/src/assets/campo.webp"
 author: "Grupo"
 ---
 
-# Lei 14 - O Pontapé de Grande Penalidade   
+# Lei 14 - O Pontapé de Penálti   
 
 ## O que é o pontapé de penálti e que comportamentos solicita nos jogadores 
 
