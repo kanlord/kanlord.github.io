@@ -1,6 +1,5 @@
 ---
 const today = new Date();
-import { Icon } from "astro-icon/components";
 ---
 
 <footer
@@ -8,27 +7,4 @@ import { Icon } from "astro-icon/components";
 >
   &copy; {today.getFullYear()} CDFutebol com apoio de albarino.pt . todos os direitos
   reservados.
-  <div class="flex items-center gap-6 text-5xl">
-    <a
-      href="https://albarino.pt"
-      target="_blank"
-      class="py-1 pl-3 rounded-md border-1 border-black bg-ppink shadow-card hover:shadow-hover transition"
-    >
-      <Icon name="web" />
-    </a>
-    <a
-      href="https://github.com/albarino-pt"
-      target="_blank"
-      class="border-1 p-1 border-black rounded-full bg-pblue shadow-card hover:shadow-hover transition"
-    >
-      <Icon name="github" />
-    </a>
-    <a
-      href="https://www.linkedin.com/in/francisco-albarino/"
-      target="_blank"
-      class="border-1 p-1 border-black rounded-full bg-pgreen shadow-card hover:shadow-hover transition"
-    >
-      <Icon name="linkedin" />
-    </a>
-  </div>
 </footer>
