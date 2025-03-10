@@ -29,9 +29,7 @@ O papel do guarda-redes, que até agora se limitava a defender a baliza, irá ev
 <br>
 Prevemos que os defensores se tornem mais rápidos e com uma circulação de bola mais ágil e dinâmica. A técnica de condução de bola e de passe será bastante aprimorada, especialmente no caso dos defesas centrais, que frequentemente se posicionam de frente para a bola. Em relação aos laterais, acreditamos que a tendência de especialização – ou na defesa ou no ataque – irá dar lugar a um modelo mais completo, onde os jogadores dominarão ambos os aspetos de forma equilibrada. Atualmente, é comum ver-se laterais que, quando chamados a atacar, encontram dificuldades em executar cruzamentos precisos, sejam curtos ou longos. No futuro, acreditamos que estes jogadores terão a capacidade técnica necessária para alternar entre as duas funções com maior eficácia e naturalidade. 
  
-**Defesa** 
-<br> 
-Prevemos que os defensores se tornem mais rápidos e com uma circulação de bola mais ágil e dinâmica. A técnica de condução de bola e de passe será bastante aprimorada, especialmente no caso dos defesas centrais, que frequentemente se posicionam de frente para a bola. Em relação aos laterais, acreditamos que a tendência de especialização – ou na defesa ou no ataque – irá dar lugar a um modelo mais completo, onde os jogadores dominarão ambos os aspetos de forma equilibrada. Atualmente, é comum ver-se laterais que, quando chamados a atacar, encontram dificuldades em executar cruzamentos precisos, sejam curtos ou longos. No futuro, acreditamos que estes jogadores terão a capacidade técnica necessária para alternar entre as duas funções com maior eficácia e naturalidade. 
+
 
 **Um médio** 
 <br>
