@@ -3,7 +3,7 @@ title: "Lei 14 - O Pontapé de Penálti"
 description:
   'Aula Teórica 1'
 icon: "2"
-pubDate: "Mar 5 2025"
+pubDate: "Mar 7 2025"
 heroImage: "/src/assets/campo.webp"
 author: "Grupo"
 ---
