@@ -9,7 +9,11 @@ author: "Grupo"
 ---
 
 # Algumas formações populares:  
-1:4:4:2:<br>1:3:4:3:<br>1:4:3:3: 
+- 1:4:4:2:
+<br>
+- 1:3:4:3:
+<br>
+- 1:4:3:3: 
 
 
 # Transições:  

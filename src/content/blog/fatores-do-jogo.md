@@ -1,5 +1,5 @@
 ---
-title: "FATORES DO JOGO"
+title: "Fatores do Jogo"
 description:
   'Aula Teórica 2'
 icon: "6"
@@ -39,7 +39,7 @@ author: "Grupo"
 <br>
 - Solidariedade para apoiar os colegas de equipa. 
 
-# PRÁTICA 
+# Prática 
 
 ## Dicas para Treinadores 
 
@@ -49,6 +49,6 @@ author: "Grupo"
 
 **Exercícios** 
 
-- **Passe:** 10 minutos de passes em triângulos, variando a intensidade. 
+- <ins>Passe:</ins> 10 minutos de passes em triângulos, variando a intensidade. 
 <br>
-- **Remate:** Remates à baliza com obstáculos para simular pressão. 
+- <ins>Remate:</ins> Remates à baliza com obstáculos para simular pressão. 
