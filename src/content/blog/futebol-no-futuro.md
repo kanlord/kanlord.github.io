@@ -1,13 +1,11 @@
 ---
 title: "O futebol no futuro"
 description: 'Aula Teórica 1'
-icon: "3"
+icon: "future"
 pubDate: "Mar 6 2025"
 heroImage: "/src/assets/campo.webp"
 author: "Grupo"
 ---
-
-# Futebol no Futuro 
 
 ## Que características terá o futebol daqui a 20 anos? 
 

@@ -1,14 +1,12 @@
 ---
-title: "Lei 14 - O Pontapé de Penálti"
+title: "Lei 14 - O Pontapé de Grande Penalidade"
 description:
   'Aula Teórica 1'
-icon: "2"
-pubDate: "Mar 7 2025"
+icon: "apito"
+pubDate: "Mar 5 2025"
 heroImage: "/src/assets/campo.webp"
 author: "Grupo"
 ---
-
-# Lei 14 - O Pontapé de Penálti   
 
 ## O que é o pontapé de penálti e que comportamentos solicita nos jogadores 
 
@@ -33,4 +31,4 @@ Outros Jogadores:
 
 ## O que propomos para alterar a lei do pontapé de penálti, que comportamentos irá solicitar nos jogadores e que implicações terá no jogo tanto a nível do micro como da macro gestão 
 
-Achamos que uma possível alteração plausível a uma lei de jogo seria estabelecer que, na execução do pontapé de penálti, não seja permitida a recarga, ou seja, se a bola for rematada pelo executante e não entrar diretamente na baliza o lance terminar imediatamente, sem que qualquer jogador possa tocar novamente na bola para marcar golo. O guarda-redes mantém as regras atuais de posicionamento, e os outros jogadores continuam fora da área até ao remate. 
+  Achamos que uma possível alteração plausível a uma lei de jogo seria estabelecer que, na execução do pontapé de penálti, não seja permitida a recarga, ou seja, se a bola for rematada pelo executante e não entrar diretamente na baliza o lance terminar imediatamente, sem que qualquer jogador possa tocar novamente na bola para marcar golo. O guarda-redes mantém as regras atuais de posicionamento, e os outros jogadores continuam fora da área até ao remate. 
