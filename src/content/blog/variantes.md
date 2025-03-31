@@ -1,5 +1,5 @@
 ---
-title: "VARIANTES: FUTEBOL 7, 9 E 11 "
+title: "Variantes: Variantes 7, 9 E 11 "
 description:
   'Aula Teórica 2'
 icon: "6"

@@ -1,14 +1,14 @@
 ---
 title: "Análise do 1° golo Inter x Feyenoord"
 description:
-  'Aula Teórica 2'
+  'Avaliação'
 icon: "6"
 pubDate: "Mar 21 2025"
 heroImage: "/src/assets/campo.webp"
 author: "Grupo"
 ---
 
-# Análise do 1° golo Inter x Feyenoord - jogo dos oitavos de final da liga dos campeões 2024/2025
+#   Análise do 1° golo Inter x Feyenoord - jogo dos oitavos de final da liga dos campeões 2024/2025
 
 <div class="relative w-full pt-[56.25%]">
   <iframe 
