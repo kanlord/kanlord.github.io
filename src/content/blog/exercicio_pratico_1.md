@@ -44,4 +44,4 @@ Orientado para os momentos/timings de saída dos jogadores e a velocidade de sa�
 
 ## Representação: 
 
-<img src="/public/assets/tatica.png" alt="exercitio tático" width="full" height="full">
+<img src="/assets/tatica.png" alt="exercitio tático" width="full" height="full">

@@ -22,7 +22,7 @@ Posteriormente surgiu o treino “integrado”, focalizado para situações reai
 Como podemos observar a base da pirâmide é o domínio de bola, ou seja, para este método a base será o domínio de bola, depois passe e receção, fintas, velocidade, finalização e por último no jogo coletivo  
 
 <div class="relative justify-items-center">
-<img src="/src/assets/Método de Coerver.jpg" alt="Método de Coerver" width="50%" height="full">
+<img src="/assets/Método de Coerver.jpg" alt="Método de Coerver" width="50%" height="full">
 </div>
 
 ## Carlos Queiroz e Jesualdo Ferreira- Anos 80 
