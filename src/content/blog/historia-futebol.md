@@ -18,19 +18,19 @@ author: "Grupo"
 - **1885** - Primeiro registo de equipas e jogadores profissionais de Futebol (Inglaterra)  
 - **1886** - Primeiras regras do Futebol  
 - **1888** - Primeiro campeonato de Futebol em Inglaterra  
-- **1904** - Nasce a FIFA - 7 membros  
+- **1904** - Nasce a [FIFA](/glossario) - 7 membros  
 - **1914** - Fundada a Federação Portuguesa de Futebol (3 associações regionais: Lisboa, Porto e Portalegre)  
 - **1921** - Primeiro campeonato de Futebol em Portugal  
 - **1954** - Nasce a [UEFA](/glossario)  
 - **1978** - Criação da Liga de Clubes Profissionais em Portugal  
-- **2023** - FIFA tem 211 membros e UEFA tem 55 membros
+- **2023** - [FIFA](/glossario) tem 211 membros e [UEFA](/glossario) tem 55 membros
 
 ## O campo e os equipamentos 
 
-O campo de futebol apresenta regras e tamanhos específicos, regulamentadas pela FIFA entre outras entidades como a IFAB:  
+O campo de futebol apresenta regras e tamanhos específicos, regulamentadas pela [FIFA](/glossario) entre outras entidades como a [IFAB](/glossario):  
 - Comprimento entre 90 e 120 metros (100 a 110m em jogos internacionais); 
 - Largura entre 45 e 90 metros (64 a 75m em jogos internacionais); 
-- Relvado natural ou sintético (este é permitido em competições, mas tem de atender a certos padrões da FIFA); 
+- Relvado natural ou sintético (este é permitido em competições, mas tem de atender a certos padrões da [FIFA](/glossario)); 
 - Marcação do campo é feita com tinta branca e as linhas devem ter uma largura máxima de 12cm. 
 
 **Linhas do campo:** 
@@ -52,7 +52,7 @@ O campo de futebol apresenta regras e tamanhos específicos, regulamentadas pela
 
 **Tecnologias associadas:** 
 
-- VAR (2016), árbitro assistente de vídeo, este utiliza câmaras de alta definição distribuídas pelo estádio com o objetivo de ver todos os ângulos do jogo;
+- [VAR](/glossario) (2016), árbitro assistente de vídeo, este utiliza câmaras de alta definição distribuídas pelo estádio com o objetivo de ver todos os ângulos do jogo;
 - Sala de operações com os árbitros assistentes de vídeo com comunicação direta via rádio com o árbitro de campo (todos os árbitros de jogo também comunicam entre si via rádio); 
 - Linha de golo, esta é um sistema baseado em câmaras ou sensores magnéticos que detetam automaticamente se a bola passou completamente a linha de golo; 
 - Painel eletrónico, utilizado para mostrar substituições e os tempos de desconto; 
