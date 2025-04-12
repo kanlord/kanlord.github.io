@@ -11,36 +11,23 @@ author: "Grupo"
 # Datas Importantes 
 
 
-- **2000 a.C.** - “Tsu-Chu” → Treino Militar na China
-<br>
-- **2000 a.C.** - “Kemari” → Ritual Religioso (influência do Tsu-Chu)
-<br>
-- **1500** - “Calcio Fiorentino” → Festa anual em Itália
-<br>
-- **1846** - “Football” → Educação em Inglaterra
-<br>
-- **1885** - Primeiro registo de equipas e jogadores profissionais de Futebol (Inglaterra)
-<br>
-- **1886** - Primeiras regras do Futebol
-<br>
-- **1888** - Primeiro campeonato de Futebol em Inglaterra
-<br>
-- **1904** - Nasce a FIFA - 7 membros
-<br>
-- **1914** - Fundada a Federação Portuguesa de Futebol (3 associações regionais: Lisboa, Porto e Portalegre)
-<br>
-- **1921** - Primeiro campeonato de Futebol em Portugal
-<br>
-- **1954** - Nasce a UEFA
-<br>
-- **1978** - Criação da Liga de Clubes Profissionais em Portugal
-<br>
+- **2000 a.C.** - “Tsu-Chu” → Treino Militar na China  
+- **2000 a.C.** - “Kemari” → Ritual Religioso (influência do Tsu-Chu)  
+- **1500** - “Calcio Fiorentino” → Festa anual em Itália  
+- **1846** - “Football” → Educação em Inglaterra  
+- **1885** - Primeiro registo de equipas e jogadores profissionais de Futebol (Inglaterra)  
+- **1886** - Primeiras regras do Futebol  
+- **1888** - Primeiro campeonato de Futebol em Inglaterra  
+- **1904** - Nasce a FIFA - 7 membros  
+- **1914** - Fundada a Federação Portuguesa de Futebol (3 associações regionais: Lisboa, Porto e Portalegre)  
+- **1921** - Primeiro campeonato de Futebol em Portugal  
+- **1954** - Nasce a [UEFA](/glossario)  
+- **1978** - Criação da Liga de Clubes Profissionais em Portugal  
 - **2023** - FIFA tem 211 membros e UEFA tem 55 membros
 
 ## O campo e os equipamentos 
 
-O campo de futebol apresenta regras e tamanhos específicos, regulamentadas pela FIFA entre outras entidades como a IFAB: 
-<br>
+O campo de futebol apresenta regras e tamanhos específicos, regulamentadas pela FIFA entre outras entidades como a IFAB:  
 - Comprimento entre 90 e 120 metros (100 a 110m em jogos internacionais); 
 - Largura entre 45 e 90 metros (64 a 75m em jogos internacionais); 
 - Relvado natural ou sintético (este é permitido em competições, mas tem de atender a certos padrões da FIFA); 

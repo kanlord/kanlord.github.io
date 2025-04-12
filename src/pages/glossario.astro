@@ -1,0 +1,24 @@
+---
+import Layout from "@/layouts/BlogPost.astro";
+const tags = ["astro", "react", "svelte", "vue", "web-components"];
+const description = `Glossário   `;
+---
+
+<Layout
+  tags={tags}
+  icon="web"
+  title="Glossário"
+  author="Grupo"
+  description={description}
+  pubDate={new Date("April 08 2025")}
+  heroImage="/src/assets/campo.webp"
+>
+  <h1>Glossário</h1>
+  <p>
+    <strong>FIFA</strong> - Federação Internacional de Futebol Associação<br />
+    <strong>IFAB</strong> - International Football Association Board<br />
+    <strong>VAR</strong> - Vídeo Árbitro<br />
+    <strong>UEFA</strong> - União das Associações Europeia de Futebol<br />
+    <strong>FC</strong> - Frequência Cardíaca<br />
+  </p>
+</Layout>
