@@ -1,5 +1,5 @@
 ---
-title: "O Teste"
+title: "O Canto"
 description:
   'Aula Teórica 3'
 icon: "6"
@@ -7,10 +7,6 @@ pubDate: "Mar 25 2025"
 heroImage: "/src/assets/campo.webp"
 author: "Grupo"
 ---
-
-## O que é? 
-
-O kuysfgaubpaiuehf puaer fpiauw fpiueqar fpiauer gpiau priu tocada por último por um jogador da equipa que está a defender. É uma bola parada executada a partir da bandeirola de canto, cujo objetivo é criar perigo na área adversário. 
 
 ## Para que serve? 
 
