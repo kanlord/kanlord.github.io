@@ -1,9 +1,9 @@
 ---
-title: "Técnica e Tática do Jogo"
+title: "Situação Laboratorial"
 description:
-  'Aula Teórica 2'
+  'Avaliação''
 icon: "6"
-pubDate: "Mar 21 2025"
+pubDate: "Apr 24 2025"
 heroImage: "/src/assets/campo.webp"
 author: "Grupo"
 ---
