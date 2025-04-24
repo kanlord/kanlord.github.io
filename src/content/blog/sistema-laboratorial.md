@@ -67,5 +67,25 @@ Os jogadores remataram de 4 zonas diferentes, primeiramente a marca de grande pe
 
 # Resultados obtidos 
 
-## Precisão de Remate - Braz (Amostra 1)
 
+# Conclusões 
+
+Após a analise detalhada dos resultados obtidos podemos concluir que tal como esperado quase na totalidade dos remates a precisão e velocidade dos remates acertados foi maior quando o alvo era de maiores dimensões, ou seja a taxa de acerto na baliza de futebol de 7 foi maior em comparação com as estatísticas de quando o alvo eram os arcos situados nos cantos da baliza de 11, estes dados foram mais percetíveis na amostra 1 (Diogo Braz). 
+
+Na nossa opinião esta diminuição de assertividade é devida à maior dificuldade da situação, dado que o alvo é menor. Por outro lado, a diminuição de velocidade também percecionada achamos que poderá estar relacionada à tentativa da amostra adaptar a velocidade ao alvo, ou seja, tentar colocar uma maior precisão nos remates com alvos menores para tentar acertar nos mesmo retirando uma notável velocidade do remate. 
+
+Outra característica que reparamos foi que a maioria dos remates foi aplicado com a perna dominante de cada amostra e como vários estudos realizados anteriormente puderam constatar a velocidade de remate tende a ser superior com a perna dominante (Narici et al., 1988; Barfield, 1995; Nunome et al., 2006).  
+
+Resumindo podemos constatar que os resultados obtidos eram esperados, nunca podendo comparar as nossas amostras a atletas de elite dado que estas não o eram, mas achamos que devido há elevada taxa de falhanço nos remates, taxa esta maior na amostra 1 mas também bastante notório na amostra 2 ,consideramos que seja bastante plausível que se estes resultados tivessem sido obtidos num ambiente de treino desportivo estes atletas poderiam beneficiar bastante de treino especifico de precisão numa primeira instância assim como o fortalecimento especifico dos membros inferiores para o aumento da velocidade do remate.  
+
+# Bibliografia  
+
+Vicente, A. (2025). 5ª semana- Aula TE 18 de março. Documento de Apoio à UC Estudos Práticos VII - Futebol. Universidade da Beira Interior. 
+
+Narici, M., Sirtori, M. & Mognoni, P. (1988) Maximal ball velocity and peak torques of hip flexor and knee extensor muscles. In: Science and Football. Eds: Reilly, T., Lees, A., Davids, K. and Murphy, W.J. London: E & FN Spon. 429- 433. 
+
+Barfield W.R (1995) Efects of selected kinematic and kinetic variables on instep kicking with dominant and non-dominant limbs. Journal of Human Movement Studies, 29, 251-272. 
+
+Nunome, H., Ikegami, Y., Kozakai, R., Apriantono, T. & Sano, S. (2006) 28Segmental dynamics of soccer instep kicking with the preferred and non- preferred leg. Journal of Sports Scie 
+
+ 
