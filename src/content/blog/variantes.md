@@ -25,6 +25,7 @@ As fases, princípios e fatores de jogo aplicam-se a todas as versões, mas com 
 
 # Táticas Adaptadas: 
 
-**Futebol 9:** 1:3:4:1 ou 1:3:3:2. 
-<br>
+**Futebol 9:** 
+- 1:3:4:1 ou 1:3:3:2. 
+
 **Futebol 7:** Menos jogadores, mais espaço por atleta. 

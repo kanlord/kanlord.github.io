@@ -10,10 +10,29 @@ author: "Grupo"
 
 # Algumas formações populares:  
 - 1:4:4:2:
-<br>
+<div class="relative justify-items-center">
+<img src="/assets/1442.jpg" alt="Método de Coerver" width="50%" height="full">
+</div>
+
 - 1:3:4:3:
-<br>
+<div class="relative justify-items-center">
+<img src="/assets/1343.jpg" alt="Método de Coerver" width="50%" height="full">
+</div>
+
 - 1:4:3:3: 
+<div class="relative justify-items-center">
+<img src="/assets/1433.jpg" alt="Método de Coerver" width="50%" height="full">
+</div>
+
+- 1:3:5:2: 
+<div class="relative justify-items-center">
+<img src="/assets/1352.jpg" alt="Método de Coerver" width="50%" height="full">
+</div>
+
+- 1:4:5:1: 
+<div class="relative justify-items-center">
+<img src="/assets/1451.jpg" alt="Método de Coerver" width="50%" height="full">
+</div>
 
 
 # Transições:  
