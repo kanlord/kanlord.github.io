@@ -1,7 +1,6 @@
 ---
 title: "Situação Laboratorial"
-description:
-  'Avaliação''
+description: 'Avaliação'
 icon: "6"
 pubDate: "Apr 24 2025"
 heroImage: "/src/assets/campo.webp"
