@@ -70,18 +70,3 @@ Os jogadores remataram de 4 zonas diferentes, primeiramente a marca de grande pe
 
 ## Precisão de Remate - Braz (Amostra 1)
 
-<div class="relative justify-items-center">
-<img src="/assets/lado-direito.png" alt="lado-direito" width="50%" height="full">
-</div>
-
-<div class="relative justify-items-center">
-<img src="/assets/lado-esquerdo.png" alt="lado-esquerdo" width="50%" height="full">
-</div>
-
-<div class="relative justify-items-center">
-<img src="/assets/masca-grande-penalidade.png" alt="lado-esquerdo" width="50%" height="full">
-</div>
-
-<div class="relative justify-items-center">
-<img src="/assets/limite-grande-area.png" alt="lado-esquerdo" width="50%" height="full">
-</div>
