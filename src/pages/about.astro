@@ -1,7 +1,42 @@
 ---
 import Layout from "@/layouts/BlogPost.astro";
+import Card from "@/components/card.astro";
 const tags = ["astro", "react", "svelte", "vue", "web-components"];
 const description = `Um breve resumo   `;
+
+const cromos = [
+  {
+    nome: "Camila Duarte",
+    denominacao: "Pataias",
+    imagem: "/assets/camila.webp",
+  },
+  {
+    nome: "Daniela Ribeiro",
+    denominacao: "Figueiró dos Vinhos",
+    imagem: "/assets/daniela.webp",
+  },
+  {
+    nome: "Diogo Brás",
+    denominacao: "Entroncamento",
+    imagem: "/assets/diogo.webp",
+  },
+  {
+    nome: "Lara Gomes",
+    denominacao: "Mira de Aire",
+    imagem: "/assets/lara.webp",
+  },
+  {
+    nome: "Matilde Albarino",
+    denominacao: "Figueira da Foz",
+    imagem: "/assets/matilde.webp",
+  },
+  {
+    nome: "Tomás Loureiro",
+    denominacao: "Albufeira",
+    imagem: "/assets/tomas (2).jpg",
+  },
+  // adiciona mais cromos conforme precisares
+];
 ---
 
 <Layout
@@ -24,9 +59,18 @@ const description = `Um breve resumo   `;
   <p>
     Foi criado e desenvolvido com dedicação por um grupo de estudantes do 2.º
     ano desta unidade curricular e curso.
-    <br />
-    Eis os autores: Matilde Albarino, natural da Figueira da Foz; Camila Duarte,
-    de Pataias; Tomás Loureiro, de Albufeira; Lara Gomes, de Mira de Aire; Daniela
-    Ribeiro, de Figueiró dos Vinhos; Diogo Braz, natural do Entroncamento.
   </p>
+  <h3>Eis os autores:</h3>
+  <section class="cromos-grid">
+    {cromos.map((cromo) => <Card {...cromo} />)}
+  </section>
 </Layout>
+
+<style>
+  .cromos-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+    padding: 1rem;
+  }
+</style>
