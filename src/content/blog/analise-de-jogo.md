@@ -13,7 +13,7 @@ author: "Grupo"
 <div class="relative w-full pt-[56.25%]">
   <iframe 
     class="absolute top-0 left-0 w-full h-full rounded-lg" 
-    src="https://www.youtube.com/embed/kNOfNyWkqO4" 
+    src="https://www.youtube.com/embed/FuJOo0YQl8w" 
     title="Análise de lance jogo Inter x Feyenoord" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
