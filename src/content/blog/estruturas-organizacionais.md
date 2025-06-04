@@ -3,7 +3,7 @@ title: "As estruturas organizacionais de suporte ao futebol"
 description:
   'Aula Teórica 11'
 icon: "6"
-pubDate: "Mar 21 2025"
+pubDate: "Jun 3 2025"
 heroImage: "/src/assets/campo.webp"
 author: "Grupo"
 ---
