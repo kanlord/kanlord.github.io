@@ -1,5 +1,5 @@
 ---
-title: Metodologia do treino do futebol parte II"
+title: "Metodologia do treino do futebol parte II"
 description:
   'Aula Teórica 6'
 icon: "6"
