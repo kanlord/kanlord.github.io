@@ -1,5 +1,5 @@
 ---
-title: "Exercício Prático 2" 
+title: "Evolução no Treino de Futebol" 
 description:  'Aula Teórica 4' 
 icon: "6" 
 pubDate: "Apr 9 2025"

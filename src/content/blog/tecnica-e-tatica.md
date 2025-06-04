@@ -36,6 +36,6 @@ O futebol pode ser dividido em momentos-chave:
 
 # Métodos do Processo: 
 
-- Contra-Ataque 
-- Ataque Rápido 
-- Ataque Posicional 
+- Contra-Ataque: Quando a equipa atacante encontra-se em superioridade numérica
+- Ataque Rápido: Quando a equipa atacante encontra-se em igualdade numérica
+- Ataque Posicional: Quando a equipa atacante encontra-se em igualdade numérica

@@ -4,7 +4,7 @@ description:
   'Aula Teórica 3'
 icon: "6"
 pubDate: "Mar 25 2025"
-heroImage: "/src/assets/o-livre-png"
+heroImage: "/src/assets/o-livre.png"
 author: "Grupo"
 ---
 

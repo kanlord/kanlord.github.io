@@ -1,5 +1,5 @@
 ---
-title: "Metodologia do treino do futebol parte II"
+title: "Metodologia do treino de futebol parte II"
 description: 'Aula Teórica 6'
 icon: "6"
 pubDate: "May 23 2025"
@@ -18,15 +18,10 @@ Também já é difícil realizar um diagnóstico e controlar os efeitos evolutiv
 Documento que tem como propósito  registar e atualizar com informações recolhidas do diagnóstico individual realizado ao longo dos treinos:
 
 - Dados Pessoais (nome, contactos,…);
-
 - Dados Anatómicos / Fisiológicos (peso, altura, imc,…);
-
 - Dados Técnicos (passe, remate, finta, condução de bola,…);
-
 - Dados Táticos (leitura de jogo, posicionamentos,…);
-
 - Dados Psicológicos (personalidade, tomadas de decisão,…);
-
 - Evolução ao longo dos treinos / época;
 
 ## Ficha de Observação de Adversários
@@ -35,11 +30,8 @@ Documento destinado ao registo e à atualização de dados recolhidos do diagnó
 
 - Sistema Tático e variantes;
 - Comportamentos (ofensivos, defensivos, transição A-D e D-A);
-
 - Jogadores mais influentes e mais débeis;
-
 - Ações Técnico/Táticas (remates, cruzamentos, golos, bolas paradas ofensivas e defensivas,…);
-
 - Momento da época;
 
 ## Ficha de Observação da Equipa
@@ -47,10 +39,8 @@ Documento destinado ao registo e à atualização de dados recolhidos do diagnó
 Documento para ir registando e completando com informações recolhidas do diagnóstico realizado à equipa (em diversos jogos e treinos):
 
 - Sistema Tático e variantes;
-
 - Comportamentos (ofensivos, defensivos, transição A-D e D-A);
 - Ações Técnico/Táticas (remates feitos e concedidos, cruzamentos feitos e concedidos, golos sofridos e marcados, bolas paradas ofensivas e defensivas, zonas de recuperação de bola e de percas de bola, faltas sofridas e cometidas, cartões, tempo utilização jogadores,…);
-
 - Outras informações relevantes;
 
 *Rigor e Precisão mas com objetividade para um melhor diagnóstico e controlo*
