@@ -29,6 +29,6 @@ Outros Jogadores:
 
 <br> 
 
-## O que propomos para alterar a lei do pontapé de penálti, que comportamentos irá solicitar nos jogadores e que implicações terá no jogo tanto a nível do micro como da macro gestão 
+## O que propomos para alterar a lei do pontapé de penálti, que comportamentos irá solicitar nos jogadores e que implicações terá no jogo tanto a nível do micro como da macro gestão
 
-  Achamos que uma possível alteração plausível a uma lei de jogo seria estabelecer que, na execução do pontapé de penálti, não seja permitida a recarga, ou seja, se a bola for rematada pelo executante e não entrar diretamente na baliza o lance terminar imediatamente, sem que qualquer jogador possa tocar novamente na bola para marcar golo. O guarda-redes mantém as regras atuais de posicionamento, e os outros jogadores continuam fora da área até ao remate. 
+Achamos que uma possível alteração plausível a uma lei de jogo seria estabelecer que, na execução do pontapé de penálti, não seja permitida a recarga, ou seja, se a bola for rematada pelo executante e não entrar diretamente na baliza ,ou seja, caso o guarda defenda e a bola não vá na direção da baliza o lance termina imediatamente,  sem que qualquer jogador possa tocar novamente na bola para marcar golo.  O guarda-redes mantém as regras atuais de posicionamento, e os outros jogadores continuam fora da área até ao remate. Após terminar o lance, o jogo recomeça com pontapé de baliza.
