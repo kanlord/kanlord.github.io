@@ -67,6 +67,41 @@ Os jogadores remataram de 4 zonas diferentes, primeiramente a marca de grande pe
 
 # Resultados obtidos 
 
+Precisão de Remate - Braz (Amostra 1)
+<BarChart title="Lado Direito" data={[ { label: "Arco", falhou: 5, acertou: 0 }, { label: "Entre a Baliza 7 e 11", falhou: 5, acertou: 0 }, { label: "Baliza 7", falhou: 3, acertou: 2 }, ]} max={6} />
+
+<BarChart title="Lado Esquerdo" data={[ { label: "Arco", falhou: 3, acertou: 2 }, { label: "Entre a Baliza 7 e 11", falhou: 5, acertou: 0 }, { label: "Baliza 7", falhou: 3, acertou: 2 }, ]} max={6} />
+
+<BarChart title="Marca de grande penalidade" data={[ { label: "Arco", falhou: 4, acertou: 1 }, { label: "Entre a Baliza 7 e 11", falhou: 5, acertou: 0 }, { label: "Baliza 7", falhou: 1, acertou: 4 }, ]} max={6} />
+
+<BarChart title="Limite Grande Área" data={[ { label: "Arco", falhou: 4, acertou: 1 }, { label: "Entre a Baliza 7 e 11", falhou: 4, acertou: 1 }, { label: "Baliza 7", falhou: 3, acertou: 2 }, ]} max={6} />
+
+Precisão de Remate - David (Amostra 2)
+<BarChart title="Lado Direito" data={[ { label: "Arco", falhou: 4, acertou: 1 }, { label: "Entre a Baliza 7 e 11", falhou: 3, acertou: 2 }, { label: "Baliza 7", falhou: 0, acertou: 5 }, ]} max={6} />
+
+<BarChart title="Lado Esquerdo" data={[ { label: "Arco", falhou: 4, acertou: 1 }, { label: "Entre a Baliza 7 e 11", falhou: 4, acertou: 1 }, { label: "Baliza 7", falhou: 2, acertou: 3 }, ]} max={6} />
+
+<BarChart title="Marca de grande penalidade" data={[ { label: "Arco", falhou: 4, acertou: 1 }, { label: "Entre a Baliza 7 e 11", falhou: 4, acertou: 1 }, { label: "Baliza 7", falhou: 0, acertou: 5 }, ]} max={6} />
+
+<BarChart title="Limite Grande Área" data={[ { label: "Arco", falhou: 5, acertou: 0 }, { label: "Entre a Baliza 7 e 11", falhou: 4, acertou: 1 }, { label: "Baliza 7", falhou: 1, acertou: 4 }, ]} max={6} />
+
+Velocidade de Remate - Braz (Amostra 1)
+<BarChart100 title="Lado Direito" data={[ { label: "Arco", falhou: 68, acertou: 0 }, { label: "Entre a Baliza 7 e 11", falhou: 64.4, acertou: 0 }, { label: "Baliza 7", falhou: 59.08, acertou: 0 }, ]} max={100} />
+
+<BarChart100 title="Lado Esquerdo" data={[ { label: "Arco", falhou: 67.07, acertou: 56.02 }, { label: "Entre a Baliza 7 e 11", falhou: 61.06, acertou: 0 }, { label: "Baliza 7", falhou: 64.58, acertou: 67.36 }, ]} max={100} />
+
+<BarChart100 title="Marca de grande penalidade" data={[ { label: "Arco", falhou: 53.64, acertou: 51.11 }, { label: "Entre a Baliza 7 e 11", falhou: 58.93, acertou: 0 }, { label: "Baliza 7", falhou: 73.44, acertou: 77.76 }, ]} max={100} />
+
+<BarChart100 title="Limite Grande Área" data={[ { label: "Arco", falhou: 62.32, acertou: 53.03 }, { label: "Entre a Baliza 7 e 11", falhou: 69.52, acertou: 71.53 }, { label: "Baliza 7", falhou: 0, acertou: 73.37 }, ]} max={100} />
+
+Precisão de Remate - David (Amostra 2)
+<BarChart100 title="Lado Direito" data={[ { label: "Arco", falhou: 83.12, acertou: 47.70 }, { label: "Entre a Baliza 7 e 11", falhou: 70.67, acertou: 65.41 }, { label: "Baliza 7", falhou: 0, acertou: 68.08 }, ]} max={100} />
+
+<BarChart100 title="Lado Esquerdo" data={[ { label: "Arco", falhou: 75.51, acertou: 0 }, { label: "Entre a Baliza 7 e 11", falhou: 75.92, acertou: 68.72 }, { label: "Baliza 7", falhou: 68.72, acertou: 64.62 }, ]} max={100} />
+
+<BarChart100 title="Marca de grande penalidade" data={[ { label: "Arco", falhou: 75.89, acertou: 0 }, { label: "Entre a Baliza 7 e 11", falhou: 56.27, acertou: 68.26 }, { label: "Baliza 7", falhou: 0, acertou: 76.25 }, ]} max={100} />
+
+<BarChart100 title="Limite Grande Área" data={[ { label: "Arco", falhou: 71.39, acertou: 0 }, { label: "Entre a Baliza 7 e 11", falhou: 70.42, acertou: 71.53 }, { label: "Baliza 7", falhou: 75.17, acertou: 75.28 }, ]} max={100} />
 
 # **Conclusões**
 
