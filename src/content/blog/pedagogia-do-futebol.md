@@ -2,7 +2,7 @@
 title: "Pedagogia do Futebol"
 description: 'Aula Teórica 8'
 icon: "6"
-pubDate: "May 26 2025"
+pubDate: "May 13 2025"
 heroImage: "/src/assets/campo.webp"
 author: "Grupo"
 ---

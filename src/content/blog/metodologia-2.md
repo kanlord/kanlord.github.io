@@ -2,7 +2,7 @@
 title: "Metodologia do treino de futebol parte II"
 description: 'Aula Teórica 6'
 icon: "6"
-pubDate: "May 23 2025"
+pubDate: "Apr 15 2025"
 heroImage: "/src/assets/campo.webp"
 author: "Grupo"
 ---

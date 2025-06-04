@@ -2,7 +2,7 @@
 title: "Evolução no Treino de Futebol" 
 description:  'Aula Teórica 4' 
 icon: "6" 
-pubDate: "Apr 9 2025"
+pubDate: "Apr 1 2025"
 heroImage: "/src/assets/campo.webp" 
 author: "Grupo"  
 ---

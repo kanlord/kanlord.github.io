@@ -1,8 +1,8 @@
 ---
 title: " Metodologia de Treino " 
-description:  ' Aula Teórica 5' 
+description: ' Aula Teórica 5' 
 icon: "6" 
-pubDate: "Apr 9 2025" 
+pubDate: "Apr 8 2025" 
 heroImage: "/src/assets/campo.webp" 
 author: "Grupo" 
 ---

@@ -1,9 +1,8 @@
 ---
 title: "O Canto"
-description:
-  'Aula Teórica 3'
+description: 'Aula Teórica 3'
 icon: "6"
-pubDate: "Mar 25 2025"
+pubDate: "Mar 18 2025"
 heroImage: "/src/assets/o-canto.jpg"
 author: "Grupo"
 ---

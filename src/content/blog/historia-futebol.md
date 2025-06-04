@@ -1,9 +1,8 @@
 ---
 title: "História do Futebol"
-description:
-  'Aula Teórica 1'
+description: 'Aula Teórica 1'
 icon: "historia"
-pubDate: "Mar 5 2025"
+pubDate: "Feb 25 2025"
 heroImage: "/src/assets/campo.webp"
 author: "Grupo"
 ---

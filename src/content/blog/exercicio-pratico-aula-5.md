@@ -2,7 +2,7 @@
 title: "Exercicio prático aula 5"
 description: 'Aula pratica 5'
 icon: "6"
-pubDate: "Apr 24 2025"
+pubDate: "Apr 8 2025"
 heroImage: "/src/assets/campo.webp"
 author: "Grupo"
 ---

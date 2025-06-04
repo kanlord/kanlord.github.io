@@ -1,9 +1,8 @@
 ---
 title: "Princípios de Jogo"
-description:
-  'Aula Teórica 2'
+description: 'Aula Teórica 2'
 icon: "6"
-pubDate: "Mar 21 2025"
+pubDate: "Mar 11 2025"
 heroImage: "/src/assets/campo.webp"
 author: "Grupo"
 ---

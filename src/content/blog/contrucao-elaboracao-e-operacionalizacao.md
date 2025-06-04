@@ -2,7 +2,7 @@
 title: "Construção, elaboração e operacionalização de sessões de treino / aprendizagem"
 description: 'Aula Teórica 9'
 icon: "6"
-pubDate: "May 27 2025"
+pubDate: "May 20 2025"
 heroImage: "/src/assets/campo.webp"
 author: "Grupo"
 ---

@@ -2,7 +2,7 @@
 title: "O Passe" 
 description:  'Aula Teórica 3' 
 icon: "6" 
-pubDate: "Mar 25 2025" 
+pubDate: "Mar 18 2025" 
 heroImage: "/src/assets/passe.jpg" 
 author: "Grupo" 
 
