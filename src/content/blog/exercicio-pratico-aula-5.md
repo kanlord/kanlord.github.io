@@ -20,7 +20,7 @@ author: "Grupo"
 
 # Material: 
 
-* 2 cardiofrequencimetros 
+* 2 cardiofrequencímetros 
 
 * 1 câmera de video 
 
