@@ -34,4 +34,5 @@ As fases, princípios e fatores de jogo aplicam-se a todas as versões, mas com 
 <div class="relative justify-items-center">
 <img src="/assets/1332.png" alt="aula-5" width="50%" height="full">
 </div>
+
 **Futebol 7:** Menos jogadores, mais espaço por atleta. 
