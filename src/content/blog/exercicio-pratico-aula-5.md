@@ -12,7 +12,7 @@ author: "Grupo"
 
  
 
-# Discrição:  
+# Descrição:  
 
  O exercício consiste num circuito que é composto por: escada de agilidade, seguida por slalom e por fim 3 saltos a pé juntos por cimas das barreiras, após a realização do circuito, o jogador conduz a bola até à meia-lua da grande área onde efetua o remate, após o remate o jogador que rematou vai recolher a mesma, retomando a bola a posição inicial sem interferir no exercício e de seguida retorna à posição inicial (meio-campo) 
 
@@ -47,3 +47,7 @@ author: "Grupo"
 * 2 amostras (1 com experiência na modalidade e outra sem) 
 
 # Representação: 
+
+<div class="relative justify-items-center">
+<img src="/assets/aula-5.png" alt="aula-5" width="50%" height="full">
+</div>
