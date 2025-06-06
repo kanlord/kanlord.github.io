@@ -1,3 +1,12 @@
+---
+title: "Reflexões Finais UC"
+description: 'Estudos Práticos Futebol'
+icon: "6"
+pubDate: "Jun 4 2025"
+heroImage: "/src/assets/campo.webp"
+author: "Grupo"
+---
+
 **Camila Duarte:**  A Unidade Curricular de Estudos Práticos de Futebol foi, desde o início da licenciatura, uma UC pela qual sempre ansiei, aguardando com entusiasmo o semestre em que a mesma fosse lecionada, uma vez que é a minha modalidade favorita, que pratiquei durante dois anos.
 
 Nas primeiras aulas senti-me ligeiramente desanimada porque a matéria que estávamos a dar era algo que já conhecia e como não aprofundámos muito os aspetos táticos, algo que eu esperava acontecer, perdi algum entusiasmo.
