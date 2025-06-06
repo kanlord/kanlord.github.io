@@ -1,12 +1,3 @@
----
-title: "Reflexões Finais UC"
-description: 'Estudos Práticos Futebol'
-icon: "6"
-pubDate: "Jun 4 2025"
-heroImage: "/src/assets/campo.webp"
-author: "Grupo"
----
-
 **Camila Duarte:**  A Unidade Curricular de Estudos Práticos de Futebol foi, desde o início da licenciatura, uma UC pela qual sempre ansiei, aguardando com entusiasmo o semestre em que a mesma fosse lecionada, uma vez que é a minha modalidade favorita, que pratiquei durante dois anos.
 
 Nas primeiras aulas senti-me ligeiramente desanimada porque a matéria que estávamos a dar era algo que já conhecia e como não aprofundámos muito os aspetos táticos, algo que eu esperava acontecer, perdi algum entusiasmo.
@@ -37,10 +28,10 @@ O trabalho colaborativo no portfólio e a análise do primeiro golo do jogo Inte
 
 **Matilde Albarino:** Neste segundo ano de Licenciatura de Ciências do Desporto tive a oportunidade de ter a Unidade Curricular de Estudos Práticos VII- Futebol, tinha algum receio da mesma, pois sempre tive algumas dificuldades neste desporto. No decorrer do semestre tive algumas dificuldades principalmente quando fazíamos jogo normal, pois como não tenho conhecimento do desporto não sabia qual havia de ser o meu posicionamento e quais seriam os deslocamentos perante o mesmo, com isto para haver jogo acho que deveria haver mais transferência dos exercícios da aula para o mesmo, o que na minha opinião deveria também ser adaptado era o facto das aulas onde tínhamos de fazer os exercícios em grupo serem compostas em metade por uma aula lecionada pelo professor e a segunda parte sermos nós a lecionar a aula. Algo que acho que foi bastante vantajoso foi a possibilidade de nós pudermos experimentar os exercícios práticos com os colegas, exercício este que era o mesmo para o último momento de avaliação.
 
-Em conclusão, sinto-me mais preparada para entrar e ingressar na mercado de trabalho do futebol, como a passibilidade de dar treinos, tudo graças a esta unidade curricular.
+Em conclusão, sinto-me mais preparada para entrar e ingressar na mercado de trabalho do futebol, como a possibilidade de dar treinos, tudo graças a esta unidade curricular.
+
+**Tomás Loureiro:**  Durante este semestre, a UC de Estudos Práticos de Futebol representou uma oportunidade valiosa de aprendizagem. Através das diferentes atividades propostas, consegui aprofundar o meu conhecimento sobre o jogo, que antes era nulo, também me permitiu desenvolver competências práticas e de análise que considero essenciais para o meu percurso.
 
 As dinâmicas de grupo e os trabalhos foram determinantes para consolidar aprendizagens relacionadas com várias dimensões do futebol, nomeadamente a vertente tática e a organização do processo de treino. A análise do lance do primeiro golo do jogo entre Inter e Feyenoord, evidenciou a importância da observação minuciosa no contexto do jogo.
 
 Por outro lado, a elaboração e a lecionação de um plano de treino permitiram-me compreender melhor os desafios da prática profissional, sobretudo no que toca à capacidade de um treinador se ajustar a diferentes contextos e imprevistos. Um aspeto que achei bastante relevante à cerca da apresentação do plano de treino foi a disponibilidade apresentada pelo professor onde algumas aulas práticas antes da avaliação foram usadas para treinar o exercício que iríamos apresentar gerando a possibilidade de vermos o que não estava a correr tão bem com o mesmo.
-
-**Daniela Ribeiro:**  Nunca fui grande fã de futebol. Sempre o encarei como algo distante, sem grande apelo ou entusiasmo da minha parte. Contudo, quando comecei a frequentar as aulas de Futebol, fui surpreendida. Nas primeiras aulas, lecionadas pelo professor, a abordagem era dinâmica, envolvente e cativante. A forma como ele explicava os conceitos e os exercícios que implementava despertou em mim uma motivação inesperada. Havia algo de estimulante em aprender sobre um tema que, à partida, não me dizia muito, o que me levou a encarar as aulas com curiosidade e vontade de explorar as minhas habilidades.
